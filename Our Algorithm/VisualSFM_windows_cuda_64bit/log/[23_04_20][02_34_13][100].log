@@ -1,0 +1,359 @@
+0: IMG_4945
+image_size:	4032x3024
+focal_length:	3136.000
+1: IMG_4946
+image_size:	4032x3024
+focal_length:	3136.000
+2: IMG_4947
+image_size:	4032x3024
+focal_length:	3136.000
+3: IMG_4948
+image_size:	4032x3024
+focal_length:	3136.000
+4: IMG_4949
+image_size:	4032x3024
+focal_length:	3136.000
+5: IMG_4950
+image_size:	4032x3024
+focal_length:	3136.000
+6: IMG_4951
+image_size:	4032x3024
+focal_length:	3136.000
+7: IMG_4952
+image_size:	4032x3024
+focal_length:	3136.000
+8: IMG_4953
+image_size:	4032x3024
+focal_length:	3136.000
+9: IMG_4954
+image_size:	4032x3024
+focal_length:	3136.000
+Loading image pixel data ...done in 3s
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 279MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0000, 4032x3024, 	1841, 0.97sec
+SIFT: 0001, 4032x3024, 	1795, 0.17sec
+SIFT: 0002, 4032x3024, 	1591, 0.15sec
+SIFT: 0003, 4032x3024, 	1582, 0.14sec
+SIFT: 0004, 4032x3024, 	1499, 0.14sec
+SIFT: 0005, 4032x3024, 	1339, 0.14sec
+SIFT: 0006, 4032x3024, 	1293, 0.14sec
+SIFT: 0007, 4032x3024, 	1327, 0.14sec
+SIFT: 0008, 4032x3024, 	1096, 0.14sec
+SIFT: 0009, 4032x3024, 	2184, 0.16sec
+
+###########-------timing------#########
+10 Feature Detection finished, 3 sec used
+#############################
+
+45 pairs to compute match
+NOTE: using 2 matching workers
+0001 and 0002: 24 matches, 0.01sec, #1
+0000 and 0003: 27 matches, 0.01sec, #1
+0000 and 0003: [12/27], H[6], 0.03sec
+0001 and 0003: 18 matches, 0.01sec, #1
+0002 and 0003: 37 matches, 0.01sec, #1
+0002 and 0003: [22/37], H[11], 0.01sec
+0000 and 0004: 18 matches, 0.01sec, #1
+0001 and 0004: 13 matches, 0.01sec, #1
+0002 and 0004: 32 matches, 0.01sec, #1
+0000 and 0001: 67 matches, 0.22sec, #0
+0002 and 0004: [13/32], H[6], 0.05sec
+0003 and 0004: 271 matches, 0.01sec, #1
+0003 and 0004: [179/271], H[95], 0.01sec
+0000 and 0001: [19/67], H[7], 0.06sec
+0000 and 0005: 8 matches, 0.01sec, #1
+0000 and 0002: 25 matches, 0.04sec, #0
+0001 and 0005: 10 matches, 0.01sec, #1
+0002 and 0005: 11 matches, 0.01sec, #1
+0000 and 0002: [12/25], H[7], 0.02sec
+0004 and 0005: 75 matches, 0.03sec, #0
+0003 and 0005: 48 matches, 0.05sec, #1
+0004 and 0005: [42/75], H[34], 0.01sec
+0003 and 0005: [29/48], H[24], 0.00sec
+0003 and 0007: 14 matches, 0.01sec, #1
+0000 and 0006: 27 matches, 0.04sec, #0
+0004 and 0007: 16 matches, 0.01sec, #1
+0005 and 0007: 20 matches, 0.01sec, #1
+0006 and 0007: 99 matches, 0.01sec, #1
+0006 and 0007: [48/99], H[22], 0.03sec
+0000 and 0006: [11/27], H[6], 0.06sec
+0000 and 0008: 30 matches, 0.01sec, #1
+0000 and 0008: [12/30], H[0], 0.02sec
+0001 and 0006: 35 matches, 0.04sec, #0
+0001 and 0008: 13 matches, 0.01sec, #1
+0002 and 0008: 9 matches, 0.01sec, #1
+0003 and 0008: 20 matches, 0.01sec, #1
+0004 and 0008: 18 matches, 0.01sec, #1
+0005 and 0008: 11 matches, 0.01sec, #1
+0006 and 0008: 19 matches, 0.01sec, #1
+0007 and 0008: 27 matches, 0.01sec, #1
+0001 and 0006: [10/35], H[5], 0.07sec
+0007 and 0008: [10/27], H[0], 0.04sec
+0002 and 0006: 18 matches, 0.03sec, #0
+0000 and 0009: 118 matches, 0.01sec, #1
+0003 and 0006: 21 matches, 0.03sec, #0
+0004 and 0006: 22 matches, 0.03sec, #0
+0000 and 0009: [57/118], H[31], 0.04sec
+0001 and 0009: 31 matches, 0.01sec, #1
+0005 and 0006: 58 matches, 0.03sec, #0
+0005 and 0006: [40/58], H[16], 0.01sec
+0001 and 0009: [10/31], H[5], 0.05sec
+0000 and 0007: 23 matches, 0.04sec, #0
+0002 and 0009: 12 matches, 0.01sec, #1
+0001 and 0007: 26 matches, 0.04sec, #0
+0003 and 0009: 23 matches, 0.01sec, #1
+0004 and 0009: 24 matches, 0.01sec, #1
+0005 and 0009: 14 matches, 0.01sec, #1
+0006 and 0009: 11 matches, 0.01sec, #1
+0007 and 0009: 23 matches, 0.01sec, #1
+0001 and 0007: [11/26], H[6], 0.06sec
+0008 and 0009: 63 matches, 0.01sec, #1
+0008 and 0009: [37/63], H[22], 0.01sec
+0002 and 0007: 17 matches, 0.03sec, #0
+
+###########-------timing------#########
+45 Image Match finished, 1 sec used
+#############################
+
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 4.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+10 pairs have two-view models
+18 pairs have fundamental matrices
+Initialize with IMG_4950 and IMG_4951
+40 3D points initialized from two images
+PBA library version = 105
+PBA: 40 3D pts, 2 cams and 80 projs...
+PBA: 0.897 -> 0.673 (27 LMs in 0.26sec)
+Focal Length : [3136.000]->[3162.897]
+Focal Length : [3136.000]->[3135.507]
+END: No more images to add [0 projs]
+
+#############################
+Initialize with IMG_4948 and IMG_4949
+179 3D points initialized from two images
+PBA: 179 3D pts, 2 cams and 358 projs...
+PBA: 1.109 -> 0.719 (100 LMs in 0.74sec)
+Focal Length : [3136.000]->[3157.064]
+Focal Length : [3136.000]->[3080.256]
+END: No more images to add [0 projs]
+
+#############################
+Initialize with IMG_4953 and IMG_4954
+37 3D points initialized from two images
+PBA: 37 3D pts, 2 cams and 74 projs...
+PBA: 1.223 -> 0.564 (55 LMs in 0.37sec)
+Focal Length : [3136.000]->[3098.966]
+Focal Length : [3136.000]->[3081.148]
+END: No more images to add [0 projs]
+
+#############################
+Failed to find two images for initialization
+Resuming SfM finished, 1 sec used
+
+---------------------------------------------------
+2 cams, 38 pts (3+: 0)
+74 projections (3+: 0)
+---------------------------------------------------
+3 model(s) reconstructed from 10 images;
+6 modeled; 0 reused; 10 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 1 sec used
+1.4(1.4) seconds on Bundle Adjustment (+)
+1.4(1.4) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 1.000 seconds used
+
+
+Run dense reconstruction, begin...
+Save to io.nvm ... done
+
+#############################
+Undistorting 2 images in model #2
+param_undistortion_thread_num = 0
+NOTE: using 16 threads...
+#00: IMG_4953 -> 00000000.jpg, 2.498 sec
+#00: IMG_4954 -> 00000001.jpg, 1.905 sec
+----------------------------------------------------------------
+Running Yasutaka Furukawa's CMVS tool...
+cmvs "C:\Users\AVISH\OneDrive\Desktop\RSN PROJECT\guitar\io.nvm.cmvs\02\\" 50 16
+genOption "C:\Users\AVISH\OneDrive\Desktop\RSN PROJECT\guitar\io.nvm.cmvs\02\\" 1 2 0.700000 7 2 16
+1 cluster is generated for pmvs reconstruction.
+pmvs2 "C:\Users\AVISH\OneDrive\Desktop\RSN PROJECT\guitar\io.nvm.cmvs\02\\" option-0000
+This may take a little more time, waiting...
+15 seconds were used by PMVS
+Loading option-0000.ply, 17064 vertices ...
+
+#############################
+You can manually remove bad MVS points:
+1. Switch to dense MVS points mode;
+2. Hit F1 key to enter the selection mode;
+3. Select points by dragging a rectangle;
+4. Hit DELETE to delete the selected points.
+
+#############################
+Save to io.nvm ... done
+Save C:\Users\AVISH\OneDrive\Desktop\RSN PROJECT\guitar\io.2.ply ...done
+----------------------------------------------------------------
+Run dense reconstruction, finished
+Totally 20.000 seconds used
+
+0: DSC06903_1500x
+image_size:	1500x997
+focal_length:	1125.000
+1: DSC06904_1500x
+image_size:	1500x997
+focal_length:	1125.000
+2: DSC06905_1500x
+image_size:	1500x997
+focal_length:	1125.000
+3: DSC06906_1500x
+image_size:	1500x997
+focal_length:	1125.000
+4: DSC06907_1500x
+image_size:	1500x997
+focal_length:	1125.000
+5: DSC06908_1500x
+image_size:	1500x997
+focal_length:	1125.000
+6: DSC06909_1500x
+image_size:	1500x997
+focal_length:	1125.000
+7: DSC06910_1500x
+image_size:	1500x997
+focal_length:	1125.000
+8: DSC06911_1500x
+image_size:	1500x997
+focal_length:	1125.000
+9: DSC06912_1500x
+image_size:	1500x997
+focal_length:	1125.000
+10: DSC06913_1500x
+image_size:	1500x997
+focal_length:	1125.000
+11: DSC06914_1500x
+image_size:	1500x997
+focal_length:	1125.000
+12: DSC06915_1500x
+image_size:	1500x997
+focal_length:	1125.000
+13: DSC06916_1500x
+image_size:	1500x997
+focal_length:	1125.000
+14: DSC06917_1500x
+image_size:	1500x997
+focal_length:	1125.000
+15: DSC06918_1500x
+image_size:	1500x997
+focal_length:	1125.000
+16: DSC06919_1500x
+image_size:	1500x997
+focal_length:	1125.000
+17: DSC06920_1500x
+image_size:	1500x997
+focal_length:	1125.000
+18: DSC06921_1500x
+image_size:	1500x997
+focal_length:	1125.000
+Loading image pixel data ...done in 1s
+
+Run full 3D reconstruction, begin...
+10 pairs have two-view models
+18 pairs have fundamental matrices
+Initialize with IMG_4950 and IMG_4951
+40 3D points initialized from two images
+PBA: 40 3D pts, 2 cams and 80 projs...
+PBA: 0.897 -> 0.673 (27 LMs in 0.26sec)
+Focal Length : [3136.000]->[3162.897]
+Focal Length : [3136.000]->[3135.507]
+END: No more images to add [0 projs]
+
+#############################
+Initialize with IMG_4948 and IMG_4949
+179 3D points initialized from two images
+PBA: 179 3D pts, 2 cams and 358 projs...
+PBA: 1.109 -> 0.719 (100 LMs in 0.80sec)
+Focal Length : [3136.000]->[3157.064]
+Focal Length : [3136.000]->[3080.256]
+END: No more images to add [0 projs]
+
+#############################
+Initialize with IMG_4953 and IMG_4954
+37 3D points initialized from two images
+PBA: 37 3D pts, 2 cams and 74 projs...
+PBA: 1.223 -> 0.564 (55 LMs in 0.39sec)
+Focal Length : [3136.000]->[3098.966]
+Focal Length : [3136.000]->[3081.148]
+END: No more images to add [0 projs]
+
+#############################
+Failed to find two images for initialization
+Resuming SfM finished, 1 sec used
+
+---------------------------------------------------
+2 cams, 38 pts (3+: 0)
+74 projections (3+: 0)
+---------------------------------------------------
+3 model(s) reconstructed from 29 images;
+6 modeled; 0 reused; 29 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 2 sec used
+1.5(1.5) seconds on Bundle Adjustment (+)
+1.4(1.4) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 2.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+********* WARNING ***********
+More than 547MB of graphic memory may be allocated
+under the default settings. If the program halts here,
+adjust parameters to save memory and rerun the task: 
+    [Tools->Enable GPU->Set Maximum DIM]
+Note some octaves may be automatically skipped
+SIFT: 0010, 1500x997, 	11542, 1.61sec
+SIFT: 0011, 1500x997, 	7855, 0.31sec
+SIFT: 0012, 1500x997, 	11659, 0.32sec
+SIFT: 0013, 1500x997, 	11517, 0.34sec
+SIFT: 0014, 1500x997, 	9443, 0.27sec
+SIFT: 0015, 1500x997, 	8365, 0.25sec
+SIFT: 0016, 1500x997, 	10542, 0.29sec
+SIFT: 0017, 1500x997, 	11437, 0.31sec
+SIFT: 0018, 1500x997, 	8268, 0.28sec
+SIFT: 0019, 1500x997, 	8633, 0.31sec
+SIFT: 0020, 1500x997, 	8559, 0.30sec
+SIFT: 0021, 1500x997, 	7920, 0.26sec
+SIFT: 0022, 1500x997, 	7775, 0.24sec
+SIFT: 0023, 1500x997, 	7913, 0.25sec
+SIFT: 0024, 1500x997, 	8101, 0.25sec
+SIFT: 0025, 1500x997, 	9288, 0.28sec
+SIFT: 0026, 1500x997, 	8618, 0.26sec
+SIFT: 0027, 1500x997, 	12070, 0.31sec
+SIFT: 0028, 1500x997, 	11592, 0.31sec
+
+###########-------timing------#########
+19 Feature Detection finished, 7 sec used
+#############################
+
+361 pairs to compute match
+NOTE: using 3 matching workers
